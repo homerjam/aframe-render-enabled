@@ -1,0 +1,22 @@
+{
+  "name": "aframe-render-enabled",
+  "version": "0.0.1",
+  "description": "A-Frame component that allows pausing and proper disposal of the render loop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homerjam/aframe-render-enabled.git"
+  },
+  "keywords": [
+    "aframe"
+  ],
+  "author": "James Homer <jameshomer85@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/homerjam/aframe-render-enabled/issues"
+  },
+  "homepage": "https://github.com/homerjam/aframe-render-enabled#readme"
+}
